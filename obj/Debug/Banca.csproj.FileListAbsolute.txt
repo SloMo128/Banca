@@ -1,0 +1,7 @@
+C:\Users\Alessandro\Desktop\Progetti\Banca\bin\Debug\Banca.exe.config
+C:\Users\Alessandro\Desktop\Progetti\Banca\bin\Debug\Banca.exe
+C:\Users\Alessandro\Desktop\Progetti\Banca\bin\Debug\Banca.pdb
+C:\Users\Alessandro\Desktop\Progetti\Banca\obj\Debug\Banca.csproj.AssemblyReference.cache
+C:\Users\Alessandro\Desktop\Progetti\Banca\obj\Debug\Banca.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\Desktop\Progetti\Banca\obj\Debug\Banca.exe
+C:\Users\Alessandro\Desktop\Progetti\Banca\obj\Debug\Banca.pdb
